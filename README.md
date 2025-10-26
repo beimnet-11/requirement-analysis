@@ -35,6 +35,27 @@ Requirement Analysis involves several key activities that ensure the software me
 - **Requirement Elicitation**  
   Refining and exploring requirements using techniques like brainstorming, prototyping, and discussions to uncover hidden or implicit needs.
 
+
+  ## Types of Requirements
+
+### Functional Requirements
+Functional requirements describe **what the system should do**—the specific behaviors, features, and functions that the software must support. They define the core functionality that allows users to achieve their goals.
+
+**Examples for the Booking Management Project:**
+- Users can register and log in to their accounts.
+- Guests can search for available properties by city, date, and price.
+- Users can create, update, or cancel bookings.
+- Hosts can add, update, or remove property listings.
+- Users can leave reviews for properties they have booked.
+- The system calculates the total price for bookings automatically.
+
+---
+
+### Non-functional Requirements
+Non-functional
+
+
+
 - **Requirement Documentation**  
   Organizing and recording requirements in a clear and structured format, such as functional specifications, user stories, or use cases, to serve as a reference for development.
 
