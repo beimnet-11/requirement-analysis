@@ -25,3 +25,18 @@ Requirement Analysis is a critical phase in the Software Development Life Cycle 
 3. **Reduces Risks and Costs**  
    Early identificat
 
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that ensure the software meets stakeholder needs and business objectives:
+
+- **Requirement Gathering**  
+  Collecting information from stakeholders through interviews, surveys, workshops, and observation to understand their needs and expectations.
+
+- **Requirement Elicitation**  
+  Refining and exploring requirements using techniques like brainstorming, prototyping, and discussions to uncover hidden or implicit needs.
+
+- **Requirement Documentation**  
+  Organizing and recording requirements in a clear and structured format, such as functional specifications, user stories, or use cases, to serve as a reference for development.
+
+- **Requirement Analysis and Modeling**  
+  Examining, prioritizing, and structuring requirements. Modeling techni
