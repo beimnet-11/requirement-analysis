@@ -53,6 +53,15 @@ Functional requirements describe **what the system should do**—the specific be
 
 ### Non-functional Requirements
 Non-functional
+## Acceptance Criteria
+
+**Acceptance Criteria** are the conditions that a feature must meet in order to be considered complete and acceptable by stakeholders. They serve as a clear agreement between the development team and stakeholders about the expected behavior and outcomes of a feature.
+
+### Importance in Requirement Analysis
+- **Clarifies Expectations:** Ensures both developers and stakeholders have a shared understanding of the feature’s functionality.  
+- **Guides Development and Testing:** Provides measurable conditions to determine when a feature is “done.”  
+- **Reduces Ambiguity:** Helps prevent misunderstandings, scope creep, and rework by specifying exactly what must be delivered.  
+- **Supports Quality Assurance:** Test
 
 
 
